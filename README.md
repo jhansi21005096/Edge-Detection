@@ -193,15 +193,17 @@ plt.show()
 ## Output:
 
 ### GRAY IMAGE
-![output]()
+![output](https://github.com/jhansi21005096/Edge-Detection/blob/main/output1.png)
 ### SOBEL EDGE DETECTOR
-![output]()
-
+### SOBELx
+![output](https://github.com/jhansi21005096/Edge-Detection/blob/main/output2.png)
+### SOBELy
+![output](https://github.com/jhansi21005096/Edge-Detection/blob/main/output3.png)
+### SOBElxy
+![output](https://github.com/jhansi21005096/Edge-Detection/blob/main/output4.png)
 ### LAPLACIAN EDGE DETECTOR
-![output]()
-
-
+![output](https://github.com/jhansi21005096/Edge-Detection/blob/main/output5.png)
 ### CANNY EDGE DETECTOR
-![output]()
+![output](https://github.com/jhansi21005096/Edge-Detection/blob/main/output6.png)
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
